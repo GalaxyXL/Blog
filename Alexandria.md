@@ -19,7 +19,8 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/Rudde/mktorrent.git
 cd mktorrent
-make && make install
+make
+make install
 ```
 
 ## 使用
