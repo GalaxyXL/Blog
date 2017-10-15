@@ -28,11 +28,13 @@ make && make install
 ```bash
 python alexandria
 ```
-出现如下提示：Please edit the configuration file：~/.alexandria/config
-使用编辑器打开~/.alexandria/config
+出现如下提示：Please edit the configuration file：XXX
+使用编辑器打开配置文件XXX
+
 ![](https://ptpimg.me/668efx.png)
 
 ptpimg首先到[https://redacted.ch/ptpimg.php](https://redacted.ch/ptpimg.php)获得code，然后用这个code注册ptpimg，注册之后首页F12搜索key,value内的值即是要填入的key。
+
 ![](https://ptpimg.me/ykvmuv.png)
 
 到这里配置就全部结束了。
